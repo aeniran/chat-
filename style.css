@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+}
+
+.dr {
+    color: red;
+    font-weight: bolder;
+}
+
+.ko{
+    background-position: center;
+    background-size: cover;
+    height: 70vh;
+    text-align: center;
+    background-repeat: no-repeat;
+}
+
+.to {
+    background-image: url(images/home-bg.jpg);
+}
+
+.go {
+    background-image: url(images/home-bg.jpg);
+}
+
+.we {
+    background-image: url(images/home.jpeg);
+}
+
+.inn {
+    padding-top: 16%;
+    color: #0B5ED7;
+    font-size: 900px;
+}
+
+.gg {
+    background-color:white !important;
+}
+
+.grace {
+    height: 40vh;
+    border: 1px black solid;
+    transition: 2000ms;
+}
+
+.grace:hover {
+    border-radius: 20px;
+    background-color: red;
+    border: none;
+    transition: 2000ms;
+    color: white;
+}
+.vo{
+    text-align: center;
+    
+}
+.con{
+    height: 80vh;
+    background-color: #0B5ED7;
+}
+
+hr{
+    width: 30%;
+    background-color: #0B5ED7;
+}
+.g{
+    background-color: #0B5ED7;
+}
+.foot{
+    background-color:orange;
+    height: 9vh;
+}
+.uo{
+    color: #fff;
+}
+.cogo{
+    padding-top: 80px;
+}
